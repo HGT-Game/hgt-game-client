@@ -1,0 +1,1 @@
+<view class="wrap data-v-b237504c"><view class="logo _div data-v-b237504c"></view><view data-event-opts="{{[['tap',[['login']]]]}}" class="btn data-v-b237504c" bindtap="__e">授权登录</view></view>
